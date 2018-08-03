@@ -1,0 +1,60 @@
+.popup {
+	width: 450px;
+	position: relative;
+	color: #333;
+}
+
+.popup .close-fb {
+	position: absolute;
+	bottom: 20px;
+	right: 20px;
+}
+
+.popup img  {
+	float: left;
+	margin: 5px;
+}
+
+.tile {
+	float: left;
+	margin: 2px;
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	border-radius: 5px; 
+	border: 2px solid #333;
+}
+
+.desc {
+	width: 100px;
+	height: 20px;
+	float: left;
+	margin: 4px;
+	font-size: 14px;
+	font-weight: bold;
+}
+.number {
+	text-align: right;
+	line-height: 100px;
+	padding-right: 5px;
+	width: 95px;
+}
+.letter {
+	height: 20px;
+	text-align: center;
+}
+
+
+.tile img {
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	border-radius: 5px; 	
+}
+
+.closed {
+	cursor: pointer;
+	background: url(../img/memory/inphima.png);	
+}
+
+.closed img {
+	display: none;
+}

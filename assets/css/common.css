@@ -1,0 +1,49 @@
+* {
+	font-family: Arial;
+}
+
+body {
+	background: #000;
+	color: #fff;
+}
+
+#wrapper {
+	margin: 30px auto;
+}
+
+.clr {
+	clear:both;
+}
+
+a {
+	text-decoration: none;
+}
+
+a:hover {
+	text-decoration: underline;
+}
+
+div.button {
+	border: none;
+	padding: 0;
+	cursor: pointer;
+}
+
+div.button.arrow  {
+	width: 101px;
+	height: 53px;
+	padding: 26px 53px 0 6px;
+	text-align: center;
+	font-weight: bold;
+	color: #ffffff;
+	background: url(../img/memory/arrow.png);
+}
+
+
+.clearfix:after { content: "."; display: block; clear: both; visibility: hidden; line-height: 0; height: 0; font-size: 0; }
+*:first-child+html .clearfix { min-height: 0; } 
+* html .clearfix { height: 1%; }
+
+a img {
+	border: none;
+}

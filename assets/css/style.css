@@ -1,0 +1,168 @@
+body {
+ background-color: #faf5e1;
+ font-family: Lucida Grande, Verdana, Sans-serif;
+ font-size: 12px;
+ color: #4F5155;
+ padding: 0;
+ margin: 0;
+ line-height:  25px;
+}
+
+#container {
+	 margin: 20px 40px;
+	 overflow: hidden;
+}
+
+#breadcrumb {
+	 margin: 20px 40px;
+	 overflow: hidden;
+}
+
+#wrapper {
+	margin: 20px auto;
+	border: 1px solid #333;
+	width: 960px;
+	background: #fff;
+	position: relative;
+}
+
+#header {
+line-height: 0px;
+}
+
+a {
+ color: #18536A;
+ background-color: transparent;
+ text-decoration: none;
+ font-weight: bold;
+}
+
+a:hover {
+	color: #000000;
+}
+
+h1 {
+ color: #444;
+ background-color: transparent;
+ border-bottom: 1px solid #D0D0D0;
+ font-size: 16px;
+ font-weight: bold;
+ margin: 0 0 10px 0;
+ padding: 5px 0 6px 0;
+}
+
+h2 {
+ color: #444;
+ background-color: transparent;
+ font-size: 14px;
+ font-weight: bold;
+ margin: 24px 0 2px 0;
+ padding: 5px 0 2px 0;
+}
+
+h3 {
+ color: #444;
+ background-color: transparent;
+ font-size: 13px;
+ font-weight: bold;
+ margin: 5px 0 2px 0;
+ padding: 2px 0 2Px 0;
+}
+
+label {
+	width: 250px;
+	display: block;
+	float: left;
+}
+
+form br {
+	clear: left;
+}
+
+#topbox {
+	position: absolute;
+	width: 100%;
+	top: 0;
+	left: 0;
+	z-index: 1000;
+	display: none;
+}
+
+#topbox.keep {
+	display: block;
+}
+
+#topbox.error {
+	background: none repeat scroll 0 0 #FFDEDE;
+	color: #ff0000;
+	border-bottom: 1px solid #ff0000;
+}
+
+#topbox.confirmation {
+	background: none repeat scroll 0 0 #D8EDD3;
+	color: #187E00;
+	border-bottom: 1px solid #187E00;
+}
+
+#topbox.notice {
+	background: none repeat scroll 0 0 #FEEFDA;
+	color: #F7941D;
+	border-bottom: 1px solid #F7941D;
+	display: none;
+}
+
+#topbox .inner {
+	margin: 10px;
+}
+
+.tooltip {
+	display:none;
+	background: #333;
+	border: 1px solid #ccc;
+	padding:15px;
+	color:#fff;	
+}
+
+iframe.youtube {
+	display: block;
+	margin: 0 auto;
+}
+
+.optiongroup {
+	margin: 20px 0;
+}
+
+ul.list li {
+	clear: left;
+	margin-bottom: 10px;
+}
+
+ul.list input {
+	float: left;
+}
+
+.clearfix:after { content: "."; display: block; clear: both; visibility: hidden; line-height: 0; height: 0; font-size: 0; }
+*:first-child+html .clearfix { min-height: 0; } 
+* html .clearfix { height: 1%; }
+
+dl {
+}
+
+
+dt {
+	float: left;
+	width: 144px;
+	clear: left;
+}
+
+dd {
+	float: left;
+	width: 183px;
+	margin: 0;
+}
+
+dt label {
+	float: none;
+	display: inline;
+	width: auto;
+}

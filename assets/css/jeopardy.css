@@ -1,0 +1,53 @@
+#wrapper {
+	width: 935px;
+}
+
+* {
+	font-family: "lucida grande",tahoma,verdana,arial,sans-serif;
+}
+
+.questions div,.categories div {
+	display: block;
+	float: left;
+	font-size:25px;
+	background: #007;
+	width: 155px;
+	height: 60px;
+	padding: 15px 15px;
+	text-align: center;
+	line-height: 60px;
+	margin: 2px 2px 0 0 ;
+}
+
+.categories div{
+	line-height: 30px;
+}
+
+.questions div.tile {
+	cursor: pointer;
+}
+
+.tile p.question , .tile p.answer {
+	display: none;
+}
+
+.tile p.points {
+	display: inline-block;
+	position: relative;
+	font-size: 35px;
+	padding: 0;
+	margin: 0;
+}
+
+#fancybox-content {
+	width: 600px;
+	background-color: #007;
+	font-size: 36px;
+	text-align: center;
+}
+
+#fancybox-content div {
+	vertical-align: middle;
+	display: table-cell;
+	margin: 15px;
+}
