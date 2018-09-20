@@ -7,9 +7,9 @@
 		<div>Sinnloses<br />Wissen</div>
 	</div>
 	<div class="questions clearfix">
-		<div class="tile"><p class="question">Sie war der erste funktionsfähige Digitalrechner und gleichzeitig der erste programmierbare und turingmächtige, sowie der erste, der auf dem binären Zahlensystem basierte.</p><p class="answer">Was war die Zuse Z3?</p><p class="points">100</p></div>
-		<div class="tile"><p class="question">Er ist das Verhältnis der Länge der Ankathete zur Länger der Hypothenuse.</p><p class="answer">Was ist der Cosinus?</p><p class="points">100</p></div>
-		<div class="tile"><p class="question">Im Rahmen seiner Aktivierung schürten die Medien Ängste um die Entstehung Schwarzer Löscher.</p><p class="answer">Was ist der Large Hadron Collider (LHC)?</p><p class="points">100</p></div>
+		<div class="tile"><p class="question">Sie war der erste funktionsfähige Digitalrechner und gleichzeitig der erste programmierbare und turingmächtige Solche, sowie der erste, der auf dem binären Zahlensystem basierte.</p><p class="answer">Was war die Zuse Z3?</p><p class="points">100</p></div>
+		<div class="tile"><p class="question">Er ist das Verhältnis der Länge der Ankathete zur Länger der Hypotenuse.</p><p class="answer">Was ist der Cosinus?</p><p class="points">100</p></div>
+		<div class="tile"><p class="question">Im Rahmen seiner Aktivierung schürten die Medien Ängste um die Entstehung Schwarzer Löcher.</p><p class="answer">Was ist der Large Hadron Collider (LHC)?</p><p class="points">100</p></div>
 		<div class="tile"><p class="question">25.23.00.21<br/>25.12.01.18<br/>25.22.U1.25</p><p class="answer">Wo sind die Fachschaften Physik, Informatik und Mathematik?</p><p class="points">100</p></div>
 		<div class="tile"><p class="question">42</p><p class="answer">Was ist die Antwort auf die Frage nach dem Leben, dem Universum und dem ganzen Rest?</p><p class="points">100</p></div>
 
@@ -25,7 +25,7 @@
 		<div class="tile"><p class="question">Es ist ein Film von 2008, der die Geschichte eines jungen Studenten erzählt, der im Casino in Las Vegas beim Black Jack abräumt.</p><p class="answer">Was ist "21"? </p><p class="points">300</p></div>
 		<div class="tile"><p class="question">In diesem Versuch werden kleinste Öltröpfchen durch ein elektrisches Feld am Fallen gehindert.</p><p class="answer">Was ist der Millikan-Versuch?</p><p class="points">300</p></div>
 		<div class="tile"><p class="question">So wird die Mensa-Süd im Allgemeinen von Studenten genannt.</p><p class="answer">Was ist die Schweine-Mensa?</p><p class="points">300</p></div>
-		<div class="tile"><p class="question">Eine solche besagt z.B., dass Kühe aufgrund eines untrainierten Schließmuskelns untergehen sobald selber unter Wasser ist.</p><p class="answer">Was ist eine Zeitungs-Ente?</p><p class="points">300</p></div>
+		<div class="tile"><p class="question">Eine solche besagt z.B., dass Kühe aufgrund eines untrainierten Schließmuskelns untergehen, sobald selbiger sich unter Wasser befindet.</p><p class="answer">Was ist eine Zeitungs-Ente?</p><p class="points">300</p></div>
 
 
 		<div class="tile"><p class="question">Bis ca. 1990 wurden die meisten Computerspiele in dieser Programmiersprache entwickelt. Selbst das erst im Jahr 1999 veröffentliche RollerCoaster Tycoon basierte zu 99% auf dieser.</p><p class="answer">Was ist Assembersprache?</p><p class="points">400</p></div>
@@ -45,7 +45,7 @@
 				</math></p><p class="answer">Was ist ein Royal Flush?</p><p class="points">400</p></div>
 		<div class="tile"><p class="question">Sie wurden zufällig entdeckt, nachdem ein Schokoriegel in einer Hosentasche schmolz.</p><p class="answer">Was sind Mikrowellen?</p><p class="points">400</p></div>
 		<div class="tile"><p class="question">Prof. Dr. Anja Steinbeck</p><p class="answer">Wie heißt die amtierende Rektorin der Heinrich-Heine-Universität Düsseldorf?</p><p class="points">400</p></div>
-		<div class="tile"><p class="question">Diese traditionelle Zeremonie beim Sport wurde nicht von den Griechen sondern von den Nazis erfunden.</p><p class="answer">Was ist der Olympische Fackellauf?</p><p class="points">400</p></div>
+		<div class="tile"><p class="question">Diese traditionelle Zeremonie beim Sport wurde nicht von den Griechen, sondern von den Nazis erfunden.</p><p class="answer">Was ist der Olympische Fackellauf?</p><p class="points">400</p></div>
 
 		<div class="tile"><p class="question">Mit ihr wurde eine Kaffemaschine überwacht, um bequem überprüfen zu können, ob sich noch Kaffee in der Kanne befindet.</p><p class="answer">Was war die erste Webcam?</p><p class="points">500</p></div>
 		<!--<div class="tile"><p class="question">This is the number of people who can read hex if only you, your neighbour and dead people can read hex.</p><p class="answer">What is deaf?</p><p class="points">500</p></div>-->
