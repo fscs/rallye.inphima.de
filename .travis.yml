@@ -3,4 +3,4 @@ services:
   - docker
   
 script:
-  - make dockerpush
+  - make docker-push
