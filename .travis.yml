@@ -3,5 +3,5 @@ services:
   - docker
   
 script:
-  - docker login -u $REGISTRY_USER -p $REGISTRY_PASSWORD
-  - make docker-push
+  #- docker login -u $REGISTRY_USER -p $REGISTRY_PASSWORD
+  - make docker-build
