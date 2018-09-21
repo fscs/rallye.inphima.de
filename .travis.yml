@@ -3,5 +3,5 @@ services:
   - docker
   
 script:
-  #- docker login -u $REGISTRY_USER -p $REGISTRY_PASSWORD
+  - echo "$DOCKER_PASSWORD" | docker login -u "$DOCKER_USERNAME" --password-stdin "$DOCKER_REGISTRY_URL"
   - make docker-build
