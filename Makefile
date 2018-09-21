@@ -15,4 +15,4 @@ docker-build:
 docker-push: docker-build
 	docker push $(IMAGE)
 	docker push $(FULL_TAG)
-
+.PHONY: docker-push
