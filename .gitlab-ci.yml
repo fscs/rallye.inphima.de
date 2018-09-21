@@ -1,0 +1,24 @@
+image: docker:stable
+
+before_script:
+  - apk add make git
+  - echo "$CI_REGISTRY_PASSWORD" | docker login -u "$CI_REGISTRY_USER" --password-stdin "$CI_REGISTRY"
+
+build-master:
+  stage: build
+  script:
+    - export TAG=stable
+    - make docker-push
+  only:
+    - master
+  tags:
+    - inphima
+
+build:
+  stage: build
+  script:
+    - make docker-push
+  except:
+    - master
+  tags:
+    - inphima
